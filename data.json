@@ -1,0 +1,50 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"Govardhan Achari",
+			"email":"bandaru1998@gmail.com",
+			"phone":"+91 9876543210",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"Svit Engg college",
+					"data":["72%","2015-19"]
+				},
+				{
+					"degree":"Intermediate",
+					"institute":"Sri chaithanya jr.college",
+					"data":["77.2%","2013-15"]
+				},
+				{
+					"degree":"SSC",
+					"institute":"Sri vidyanikethan high school",
+					"data":["70%","2012-13"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"Govardhan Achari",
+			"email":"bandaru1998@gmail.com",
+			"phone":"+91 9876543210",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"Svit Engg college",
+					"data":["72%","2015-19"]
+				},
+				{
+					"degree":"Intermediate",
+					"institute":"Sri chaithanya jr college",
+					"data":["77.2%","2013-15"]
+				},
+				{
+					"degree":"SSC",
+					"institute":"Sri vidyanikethan high school",
+					"data":["70%","2012-13"]
+				}
+			]
+		}
+	]
+}
